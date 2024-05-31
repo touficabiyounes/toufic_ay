@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/toufic_ay/static/css/main.52f37449.css",
-    "main.js": "/toufic_ay/static/js/main.154d7c3e.js",
+    "main.js": "/toufic_ay/static/js/main.e4393d5d.js",
     "static/js/488.7d0411f6.chunk.js": "/toufic_ay/static/js/488.7d0411f6.chunk.js",
     "static/media/oceanai.png": "/toufic_ay/static/media/oceanai.a9066cf06dd1c1d06fac.png",
     "static/media/parkinweb.png": "/toufic_ay/static/media/parkinweb.625f669b5a7177907367.png",
     "static/media/medimanage.png": "/toufic_ay/static/media/medimanage.7689552c4b17ef07581d.png",
     "static/media/lyricsapp.png": "/toufic_ay/static/media/lyricsapp.13eb85c08a6154861aa5.png",
-    "static/media/general_Internship_resume_fr.pdf": "/toufic_ay/static/media/general_Internship_resume_fr.8a40c0ea2b2c2c4808cc.pdf",
-    "static/media/general_Internship_resume.pdf": "/toufic_ay/static/media/general_Internship_resume.42ed2ef6cb259b8f8b41.pdf",
+    "static/media/general_Internship_resume_fr.pdf": "/toufic_ay/static/media/general_Internship_resume_fr.afd73e98da6dcc5e957a.pdf",
+    "static/media/general_Internship_resume.pdf": "/toufic_ay/static/media/general_Internship_resume.215a59496cbb14156bd7.pdf",
     "static/media/home-main.svg": "/toufic_ay/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/toufic_ay/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/logo.png": "/toufic_ay/static/media/logo.062277619bf69d2ae139.png",
@@ -18,11 +18,11 @@
     "static/media/pre.svg": "/toufic_ay/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/toufic_ay/index.html",
     "main.52f37449.css.map": "/toufic_ay/static/css/main.52f37449.css.map",
-    "main.154d7c3e.js.map": "/toufic_ay/static/js/main.154d7c3e.js.map",
+    "main.e4393d5d.js.map": "/toufic_ay/static/js/main.e4393d5d.js.map",
     "488.7d0411f6.chunk.js.map": "/toufic_ay/static/js/488.7d0411f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.52f37449.css",
-    "static/js/main.154d7c3e.js"
+    "static/js/main.e4393d5d.js"
   ]
 }
