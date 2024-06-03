@@ -1,8 +1,7 @@
 {
-  "homepage": "https://touficabiyounes.github.io/toufic_ay",
+  "homepage": "https://touficabiyounes.github.io/",
   "name": "portfolio",
   "version": "0.1.0",
-  "main": "src/index.js",
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^3.4.4",
