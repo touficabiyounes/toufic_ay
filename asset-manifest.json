@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.5e8a8b43.css",
-    "main.js": "/static/js/main.1bc247ae.js",
-    "static/js/488.7d0411f6.chunk.js": "/static/js/488.7d0411f6.chunk.js",
-    "static/media/oceanai.png": "/static/media/oceanai.a9066cf06dd1c1d06fac.png",
-    "static/media/parkinweb.png": "/static/media/parkinweb.625f669b5a7177907367.png",
-    "static/media/medimanage.png": "/static/media/medimanage.7689552c4b17ef07581d.png",
-    "static/media/lyricsapp.png": "/static/media/lyricsapp.13eb85c08a6154861aa5.png",
-    "static/media/general_Internship_resume_fr.pdf": "/static/media/general_Internship_resume_fr.afd73e98da6dcc5e957a.pdf",
-    "static/media/general_Internship_resume.pdf": "/static/media/general_Internship_resume.215a59496cbb14156bd7.pdf",
-    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/logo.png": "/static/media/logo.062277619bf69d2ae139.png",
-    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/maze.png": "/static/media/maze.b662b10c56b597e5516d.png",
-    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/index.html",
-    "main.5e8a8b43.css.map": "/static/css/main.5e8a8b43.css.map",
-    "main.1bc247ae.js.map": "/static/js/main.1bc247ae.js.map",
-    "488.7d0411f6.chunk.js.map": "/static/js/488.7d0411f6.chunk.js.map"
+    "main.css": "/toufic_ay/static/css/main.52f37449.css",
+    "main.js": "/toufic_ay/static/js/main.b9c6e51b.js",
+    "static/js/488.7d0411f6.chunk.js": "/toufic_ay/static/js/488.7d0411f6.chunk.js",
+    "static/media/oceanai.png": "/toufic_ay/static/media/oceanai.a9066cf06dd1c1d06fac.png",
+    "static/media/parkinweb.png": "/toufic_ay/static/media/parkinweb.625f669b5a7177907367.png",
+    "static/media/medimanage.png": "/toufic_ay/static/media/medimanage.7689552c4b17ef07581d.png",
+    "static/media/lyricsapp.png": "/toufic_ay/static/media/lyricsapp.13eb85c08a6154861aa5.png",
+    "static/media/general_Internship_resume_fr.pdf": "/toufic_ay/static/media/general_Internship_resume_fr.afd73e98da6dcc5e957a.pdf",
+    "static/media/general_Internship_resume.pdf": "/toufic_ay/static/media/general_Internship_resume.215a59496cbb14156bd7.pdf",
+    "static/media/home-main.svg": "/toufic_ay/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/toufic_ay/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo.png": "/toufic_ay/static/media/logo.062277619bf69d2ae139.png",
+    "static/media/home-bg.jpg": "/toufic_ay/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/maze.png": "/toufic_ay/static/media/maze.b662b10c56b597e5516d.png",
+    "static/media/avatar.svg": "/toufic_ay/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/toufic_ay/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/toufic_ay/index.html",
+    "main.52f37449.css.map": "/toufic_ay/static/css/main.52f37449.css.map",
+    "main.b9c6e51b.js.map": "/toufic_ay/static/js/main.b9c6e51b.js.map",
+    "488.7d0411f6.chunk.js.map": "/toufic_ay/static/js/488.7d0411f6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e8a8b43.css",
-    "static/js/main.1bc247ae.js"
+    "static/css/main.52f37449.css",
+    "static/js/main.b9c6e51b.js"
   ]
 }
